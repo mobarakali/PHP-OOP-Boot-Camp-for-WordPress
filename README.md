@@ -14,6 +14,8 @@
 
 ### Level 6: Interfaces, Abstract Classes, and Traits
 
+### Level 14: Namespaces
+
 ## WordPress Core
 
 ### Level 7: WordPress Core Code Walkthrough
@@ -31,4 +33,9 @@
 ### Level 12: Preparing for the "Live Sessions"
 
 ### Level 13: Real-World Ticket Analysis
+
+
+### Level 15: The Heart of WordPress — Hooks (Actions & Filters)
+
+### Level 16: Priority and Arguments (হুকসের গভীরতা)
 
