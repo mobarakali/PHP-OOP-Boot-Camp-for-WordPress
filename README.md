@@ -1,1 +1,1 @@
-# PHP-OOP-Boot-Camp-for-WordPress
+# PHP OOP BootCamp for WordPress
